@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=1BDCFF&width=500&height=100&lines=%E7%A7%81%E3%81%AF+KAIZ!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&random=true&width=435&lines=M%C3%ACnh+L%C3%A0+KAIZ;Watashi+wa+KAIZ)](https://git.io/typing-svg)
 # 💫About Me : ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 👋 Hello everyone, 私は @KaizMeGame
 
