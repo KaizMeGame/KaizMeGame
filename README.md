@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=KaizMeGame&theme=meta-dark&locale=vi&short_numbers=true&exclude_days=Mon&type=png)](https://git.io/streak-stats)
 # 💫About Me : ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 👋 Hello everyone, 私は @KaizMeGame
 
