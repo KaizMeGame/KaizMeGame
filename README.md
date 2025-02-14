@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" /></a>
+  <a href="[https://github.com/KaizMeGame]"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" /></a>
 </p>
 
 ---
