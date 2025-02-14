@@ -1,12 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋</h1>
 
-<p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%92%BC-ff69b4" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
 # 💫About Me : ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+
 👋 Hello everyone, 私は @KaizMeGame
 
 👀 興味があります...
@@ -23,7 +18,11 @@
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kaizdepzaiii) 
-
+<p align="center">
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%92%BC-ff69b4" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 ---
 
 
