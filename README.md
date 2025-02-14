@@ -18,10 +18,12 @@
 
 ## 🌐Socials
 <p align="center">
+  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kaizdepzaiii) 
 [![CÔNG VIỆC](https://img.shields.io/badge/Portfolio-%F0%9F%92%BC-ff69b4)](https://kaizmegame.github.io) 
 [![LINKERIN](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://youtube.com) 
 [![EMAIL](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white)](kaizmegame@gmail.com) 
+
 </p>
 
 ---
