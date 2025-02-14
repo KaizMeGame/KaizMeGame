@@ -6,7 +6,6 @@
 📫 私に連絡する方法...
 🇻🇳 私はベトナム人です.
 ❤️ 愛してます. ❤️
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kaizdepzaiii) 
