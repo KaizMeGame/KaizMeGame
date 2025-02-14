@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaizMeGame&theme=meta-dark&locale=vi&short_numbers=true&exclude_days=Mon)](https://git.io/streak-stats)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&pause=1000&random=true&width=435&lines=M%C3%ACnh+L%C3%A0+KAIZ;Watashi+wa+KAIZ)](https://git.io/typing-svg)
 # 💫About Me : ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 👋 Hello everyone, 私は @KaizMeGame
