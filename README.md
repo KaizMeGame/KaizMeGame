@@ -34,3 +34,42 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+<h1 align="center">Hi there, I'm <a href="https://github.com/your-username">Your Name</a> 👋</h1>
+
+<p align="center">
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-%F0%9F%92%BC-ff69b4" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 **About Me**  
+- 🎯 Passionate about **Web Development, AI & Open Source**  
+- 🔭 Currently working on **[Your Project](https://github.com/your-repo)**  
+- 🌱 Learning **React, Node.js, AI/ML**  
+- 💡 I enjoy solving **coding challenges** and contributing to **open-source**  
+- ⚡ Fun fact: _I love coffee ☕ and late-night coding_  
+
+---
+
+### 🛠 **Tech Stack**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,git,github,figma" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" />
+</p>
+
+---
+
+### 📌 **Let's Connect!**  
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" /></a>
+</p>
