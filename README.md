@@ -1,4 +1,5 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1BDCFF&width=435&lines=Watashi+Wa+KAIZ!)](https://git.io/typing-svg)
 # 💫About Me :
 👋 Hello everyone, 私は @KaizMeGame
 
