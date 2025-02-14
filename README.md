@@ -6,6 +6,7 @@
 📫 私に連絡する方法...
 🇻🇳 私はベトナム人です.
 ❤️ 愛してます. ❤️
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kaizdepzaiii) 
@@ -24,7 +25,7 @@
 [![](https://visitcount.itsvg.in/api?id=KaizMeGame&icon=7&color=0)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/KaizMG) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Chưa có...) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Chưa có...) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Chưa có...) 
+
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
